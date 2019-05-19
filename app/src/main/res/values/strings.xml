@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Admob</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_Unit_Id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="read_alot">Read Alot</string>
+    <string name="_1st_top_habit">1st Top Habit.</string>
+    <string name="get_up_early">GET UP EARLY</string>
+    <string name="get_up">Nearly 50 percent of the millionaires got out bed at
+        least three hours before their working actually started.
+Many of them use the free time to tackle personal projects, plan their day, or make time for exercise.
+"Getting up at five in the morning to tackle the top three things you want to accomplish in your day allows you to
+regain control of your life, " he writes. "It give you a sense of confidence that you, indeed, direct your life.</string>
+
+</resources>
+
+
